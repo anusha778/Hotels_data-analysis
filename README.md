@@ -7,14 +7,24 @@ The goal of this project is to conduct a comprehensive analysis of the hotel dom
 
 # Project Highlights
 Data Cleaning- Handling missing values and outliers.
+
 Data Transformation - Added occupancy% columns.
+
 Insights generation-key questions answered
+
 calculating average occupaancy rate by room type and city.
+
 Identifying occupancy rate on weekdays and weekends.
+
 Analyzing revenue generated per city.
+
 Analyzing monthly revenue trends.
+
 Assessing revenue by booking platforms.
+
 # Skills Learned
 Python Programming: Enhancing proficiency in Python for data analysis,cleaning ,transforamtion and visualization.
+
 Data Viusualization: Leveraged Matplotlib library for creating charts and bars.
+
 Pandas Fundamentals- creating various dataframes,group by functions,concate and merging,hanling NA values,read csv files etc.
